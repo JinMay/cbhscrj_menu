@@ -1,24 +1,5 @@
-# README
+# 충북대학교 학생생활관 식단알리미
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+안녕하세요, 충북대학교 멋쟁이 사자처럼 5기로 활동하고 있는 1팀입니다.
+이번에 충북대학교 학생생활관과 충북학사 청람재의 식단을 알려주는 서비스를 
+카카오톡 자동응답 API를 이용하여 구현하였습니다.
